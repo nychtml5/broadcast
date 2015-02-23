@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NYCHTML5 Broadcast</title>
+    <description>A broadcast (audio/video) where we speak more in depth with each event&#39;s speakers</description>
+    <link>http://nychtml5.github.io/</link>
+    <atom:link href="http://nychtml5.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;Oh my gosh. This is so exciting.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Feb 2015 10:31:19 -0500</pubDate>
+        <link>http://nychtml5.github.io/announcements/2015/02/23/welcome-to-pixyll/</link>
+        <guid isPermaLink="true">http://nychtml5.github.io/announcements/2015/02/23/welcome-to-pixyll/</guid>
+      </item>
+    
+  </channel>
+</rss>
