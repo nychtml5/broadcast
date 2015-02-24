@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About NYCHTML5 Broadcast
+title: About Broadcast
 permalink: /about/
 ---
 
